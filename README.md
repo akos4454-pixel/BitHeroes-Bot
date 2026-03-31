@@ -93,6 +93,7 @@
         <li>Automation will stop if the game window is minimized. Keep the game in the foreground and enable the "Always On Top" feature to prevent accidental minimization.</li>
         <li>Do not use in-game auto-persuade and auto-decline features if you use the bot's auto-persuade and auto-decline.</li>
         <li>Make sure your windows zoom scale is at 100%, anything higher than that will break the auto-clicker</li>
+        <li>The tool cannot handle more than one monitor, for now, unplug your displays to keep only one</li>
     </ul>
 </ul>
 
