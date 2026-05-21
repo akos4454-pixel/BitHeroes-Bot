@@ -42,18 +42,9 @@
     <strong>Auto PVP</strong><br>
     <strong>Auto Raid</strong><br>
     <strong>Auto World Boss</strong><br>
-    <strong>+ 1 Community-Requested Feature!</strong>
 </ul>
 
-<p align="center">
-    <em>Suggest your favorite feature by opening an <a href="https://github.com/elwoujdi/BitHeroes-Bot/issues/new/choose">issue</a> or joining our <a href="https://discord.gg/yBBrUAd5zj">Discord</a>.</em>
-</p>
-
 <h2 align="center">Upcoming in Version 3</h2>
-
-<p align="center">
-    <strong>If this project gets 30+ stars 🌟, version 3 will include:</strong>
-</p>
 
 <ul align="center" style="list-style: none; padding-left: 0;">
     <strong>Auto Invasion</strong><br>
