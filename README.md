@@ -36,23 +36,6 @@
     <strong>Always On Top 📌</strong>: Keeps the window on top to ensure clicks and keyboard inputs work, even when focus shifts to another app.
 </ul>
 
-<h2 align="center">Upcoming in Version 2</h2>
-
-<ul align="center" style="list-style: none; padding-left: 0;">
-    <strong>Auto PVP</strong><br>
-    <strong>Auto Raid</strong><br>
-    <strong>Auto World Boss</strong><br>
-</ul>
-
-<h2 align="center">Upcoming in Version 3</h2>
-
-<ul align="center" style="list-style: none; padding-left: 0;">
-    <strong>Auto Invasion</strong><br>
-    <strong>Auto Gauntlet</strong><br>
-    <strong>Auto Trials</strong><br>
-    <strong>Auto Expedition</strong><br>
-</ul>
-
 <h2 align="center">Pre-requisites</h2>
 
 <ul align="center">
