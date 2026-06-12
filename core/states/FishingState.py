@@ -29,7 +29,7 @@ class FishingState(BaseState):
             else:
                 self.game_interface.click_fish_start()
                 self.game_interface.wait_till_ready(self.game_interface.is_fish_min_range, screenshot_cooldown=0.1)
-                sleep(0.37) # Exact time needed to reach 40
+                sleep(0.60) # Exact time needed to reach 40
                 self.game_interface.click_fish_cast()
                 sleep(6)
                 if not self.game_interface.is_trash():
